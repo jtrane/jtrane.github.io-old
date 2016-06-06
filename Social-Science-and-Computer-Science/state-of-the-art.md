@@ -7,13 +7,11 @@ There is a long tradition of CS in SC (agent-based modelling, ...) and of SC in 
   - applying CS-maths to SC
   - arising from novel challenges posed by techonological CS-developments. 
   
-The 2nd item is closest to my research expertise and so I would like to speculate on:
-
-[Physics mathematics vs computer science mathematics](physics-maths-vs-CS-maths.md).
+The 2nd item is closest to my research expertise and so I would like to speculate on [physics mathematics vs computer science mathematics](physics-maths-vs-CS-maths.md).
 
 CS-maths (or Theoretical Computer Science (TCS)) lays the foundation of [Computer science](computer-science.md). It is sometimes divided into algorithms and into logic/semantics, where I see myself in logic/semantics.
 
-What are the [contributions CS-maths can make](contributions-of-CS-maths.md) and what are the more specific [contributions of logic and semantics](logic-and-semantics.md)?
+**What are the [contributions CS-maths can make](contributions-of-CS-maths.md) and what are the more specific [contributions of logic and semantics](logic-and-semantics.md)?**
 
 [My own explorations along these lines](track-record.md).
 
