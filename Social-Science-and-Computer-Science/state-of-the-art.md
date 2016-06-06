@@ -13,5 +13,5 @@ CS-maths (or Theoretical Computer Science (TCS)) lays the foundation of [Compute
 
 **What are the [contributions CS-maths can make](contributions-of-CS-maths.md) and what are the more specific [contributions of logic and semantics](logic-and-semantics.md)?**
 
-[My own explorations along these lines](track-record.md).
+My own contributions have been helping to organise [events](track-record.md) in which these questions are pursued.
 
