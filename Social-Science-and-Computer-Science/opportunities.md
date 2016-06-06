@@ -6,7 +6,7 @@ I am happy to be the supervisor on the CS side.
 There can be other opportunities to get a CS student to work: 
 Currently Kirsten Barrett from Geography is supervising a 
 [NERC Research Experience Placement](http://www.nerc.ac.uk/funding/available/postgrad/advanced/experience/) 
-paying a CS 2nd year undergraduate.
+paying a CS 2nd year undergraduate to work on a program for wildfire detection.
 
 Co-supervising PhD students.
 
