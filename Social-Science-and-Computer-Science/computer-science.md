@@ -10,8 +10,8 @@ The mathematical foundations for this research are the subject of Theoretical Co
 
 TCS is sometimes devided into
 
- * Track A: Algorithms, Complexity and Games
+ * Track A: Algorithms, Complexity and Games (... analysing algorithms ...)
 
- * Track B: Logic, Semantics, Automata and Theory of Programming
+ * Track B: Logic, Semantics, Automata and Theory of Programming (... building systems ...)
 
 
