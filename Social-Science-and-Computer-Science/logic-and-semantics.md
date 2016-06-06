@@ -10,6 +10,8 @@
 
 * parametricity explains Noether's theorem in physics [A](http://bentnib.org/conservation-laws.pdf)
 
+* Sandro Sozzo uses quantum logic and probability to explain human decision making. In CS many non-classical logics play an important role ... could some of them be applied to similar questions?
+
 * ... ? 
 
 ### a somewhat arbitrary list just to indicate that it is likely that much more is possible
