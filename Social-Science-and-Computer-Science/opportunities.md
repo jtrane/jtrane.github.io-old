@@ -14,8 +14,8 @@ paying a CS 2nd year undergraduate to work on a program for wildfire detection.
 
 #### Possible research directions
 
-* Applications of [CS-maths in SC](state-of-the-art.md) (interdisciplinary projects can be theoretical).
+* Applications of [CS-maths in SC](state-of-the-art.md) (interdisciplinary projects can be theoretical)
 
 * [Machine Ethics](machine-ethics.md)
 
-* [Blockchain](blockchain-smart-contracts.md).
+* [Blockchain](blockchain-smart-contracts.md)
