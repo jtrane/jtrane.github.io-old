@@ -1,4 +1,4 @@
-[Social Science and Computer Science](overview)
+[Social Science and Computer Science](overview.md)
 
 Presentation given on June 6, 2016.
 
