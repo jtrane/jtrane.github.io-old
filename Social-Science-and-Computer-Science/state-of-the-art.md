@@ -8,6 +8,7 @@ These examples illustrate existing interactions between SC and CS, based on
   - using CS-tools in SC
   - applying CS-maths to SC
   - arise from novel challenges posed by techonological CS-developments. 
+  
 The 2nd item is closest to my research expertise and so I would like to speculate on:
 
 [Physics mathematics vs computer science mathematics](physics-maths-vs-CS-maths.md).
