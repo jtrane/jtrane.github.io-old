@@ -1,4 +1,4 @@
-### Some directions I have been looking at:
+### Some events:
 
 
 * [Coalgebraic Semantics of Reflexive Economics](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=15042). Dagstuhl seminar  (Jan 2015, jointly organized with Abramsky, Lescanne, Winschel) on using logic and semantics to model certain aspects of economic theory. 
