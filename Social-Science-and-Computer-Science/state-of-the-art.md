@@ -1,6 +1,8 @@
 ## State of the Art?
 
-There is a long tradition of CS in SC (agent-based modelling, ...) and of SC in CS (HCI, ...). But there has been a surge of interest over the last decade.
+There is a long tradition of CS in SC (agent-based modelling, ...) and of SC in CS (HCI, ...). 
+
+But there has been a surge of interest over the last decade.
 
 [Examples of research areas that overlap SC and CS](existing-research-areas.md). These examples illustrate existing interactions between SC and CS, 
   - using CS-tools in SC
