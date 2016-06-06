@@ -10,6 +10,8 @@
 
 * parametricity explains Noether's theorem in physics [A](http://bentnib.org/conservation-laws.pdf)
 
+* ... ? 
+
 ### a somewhat arbitrary list just to indicate that it is likely that much more is possible
 
 * specification languages (model theory) and reasoning (proof theory)
@@ -49,3 +51,6 @@
 * dynamic logic
 
 * Kleene algebra
+
+* ... ? 
+
