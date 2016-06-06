@@ -11,7 +11,7 @@ The 2nd item is closest to my research expertise and so I would like to speculat
 
 CS-maths (or Theoretical Computer Science (TCS)) lays the foundation of [Computer science](computer-science.md). It is sometimes divided into algorithms and into logic/semantics, where I see myself in logic/semantics.
 
-**What are the [contributions CS-maths can make](contributions-of-CS-maths.md) and what are the more specific [contributions of logic and semantics](logic-and-semantics.md)?**
+#### What are the [contributions CS-maths can make](contributions-of-CS-maths.md) and what are the more specific [contributions of logic and semantics](logic-and-semantics.md)?
 
 My own contributions have been helping to organise [events](track-record.md) in which these questions are pursued.
 
