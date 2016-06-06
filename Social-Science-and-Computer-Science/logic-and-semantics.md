@@ -4,7 +4,7 @@
 
 * coinduction applied to infinite games [L](http://arxiv.org/abs/1112.1185), [AW](http://arxiv.org/abs/1210.4537)
 
-* applications of functional programming to game theory: Higher-Order Game Theory ...  [EO1](http://www.eecs.qmul.ac.uk/~pbo/papers/paper022.pdf), [EO2](http://www.eecs.qmul.ac.uk/~pbo/papers/paper032.pdf), [EO3](http://www.eecs.qmul.ac.uk/~pbo/papers/paper041.pdf) [Hetal1](http://arxiv.org/abs/1506.01003) [Hetal2](http://arxiv.org/abs/1506.01002) 
+* applications of functional programming to game theory: Higher-Order Game Theory ...  [EO1](http://www.eecs.qmul.ac.uk/~pbo/papers/paper022.pdf), [EO2](http://www.eecs.qmul.ac.uk/~pbo/papers/paper032.pdf), [EO3](http://www.eecs.qmul.ac.uk/~pbo/papers/paper041.pdf), [Hetal1](http://arxiv.org/abs/1506.01003), [Hetal2](http://arxiv.org/abs/1506.01002) 
 
 * compositional account of game theory [Hetal3](http://arxiv.org/abs/1604.06061), [HG](http://arxiv.org/abs/1603.04641)
 
