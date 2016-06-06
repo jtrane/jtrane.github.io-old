@@ -2,12 +2,10 @@
 
 There is a long tradition of CS in SC (agent-based modelling, ...) and of SC in CS (HCI, ...). But there has been a surge of interest over the last decade.
 
-[Examples of research areas that overlap SC and CS](existing-research-areas.md).
-
-These examples illustrate existing interactions between SC and CS, based on
+[Examples of research areas that overlap SC and CS](existing-research-areas.md). These examples illustrate existing interactions between SC and CS, 
   - using CS-tools in SC
   - applying CS-maths to SC
-  - arise from novel challenges posed by techonological CS-developments. 
+  - arising from novel challenges posed by techonological CS-developments. 
   
 The 2nd item is closest to my research expertise and so I would like to speculate on:
 
