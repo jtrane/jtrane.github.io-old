@@ -1,4 +1,4 @@
-### Opportunities
+## Opportunities
 
 Start collaborations on the level of BSc/MSc projects. If any of you has a programming task that is suitable for such a project,
 I am happy to be the supervisor on the CS side. 
