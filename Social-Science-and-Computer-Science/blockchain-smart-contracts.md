@@ -13,7 +13,7 @@ This technology can be used for many other purposes.
 
 * [More Dapps ...](https://www.google.co.uk/search?q=ethereum+projects&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=u0hUV_yYE-vW8geU_ILAAg#q=dapps). 
 
-[An article](https://medium.com/the-coinbase-blog/ethereum-is-the-forefront-of-digital-currency-5300298f6c75#.prlgtfnqx) explaining why Ethereum and its Dapps will change the world as we know it. To get a sense of what will happen think back to how the world was like at before the first apps appeared. 
+[An article](https://medium.com/the-coinbase-blog/ethereum-is-the-forefront-of-digital-currency-5300298f6c75#.prlgtfnqx) explaining why Ethereum and its Dapps will change the world as we know it. (Think back to how the world was like before the first apps appeared.)
 
 [A technical paper](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) explaining how to learn and teach programming Ethereum.
 
