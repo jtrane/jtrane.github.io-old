@@ -8,4 +8,4 @@ Physiscs-maths is much more important and successful in SC than CS-maths. But CS
 
 Timely challenge: **Explore possibilities of CS-maths in SC**
 
-Of course, this dichotomy is too simple. It would be interesting to have a discussion about what the term [formal methods](formal-methods) mean to SC. 
+Of course, this dichotomy is too simple. It would be interesting to have a discussion about what the term [formal methods](formal-methods.md) mean to SC. 
