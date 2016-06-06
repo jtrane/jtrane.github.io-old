@@ -10,3 +10,5 @@ There is a long tradition of CS in SC (agent-based modelling, ...) and of SC in 
 
 These examples above illustrate the specific [contributions CS-maths can make](contributions-of-CS-maths.md) but emphasize more algorithms and complexity theory than logic and semantics. What could be specific [contributions of logic and semantics](logic-and-semantics.md)?
 
+[My own explorations along these lines](track-record.md)
+
