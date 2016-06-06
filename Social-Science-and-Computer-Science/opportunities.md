@@ -10,4 +10,4 @@ Co-supervising PhD students.
 
 Applications of CS-maths in SC (interdisciplinary projects can be theoretical).
 
-[Blockchain](blockchain.md).
+[Blockchain](blockchain-smart-contracts.md).
