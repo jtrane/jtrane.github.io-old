@@ -6,7 +6,7 @@ Here is a guess.
 
 * game theory (as in economics)
 
-* Agent based modeling, multi agent systems, cellular automata, Boolean nets, artificial neural nets, evolutionary algorithms, genetic algorithms
+* agent based modeling, multi agent systems, cellular automata, Boolean nets, artificial neural nets, evolutionary algorithms, genetic algorithms
 
 ### What then about formal methods in the sense of CS?
 
