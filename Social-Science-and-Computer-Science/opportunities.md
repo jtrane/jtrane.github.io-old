@@ -18,4 +18,4 @@ paying a CS 2nd year undergraduate to work on a program for wildfire detection.
 
 * [Machine Ethics](machine-ethics.md)
 
-* [Blockchain](blockchain-smart-contracts.md)
+* The [Blockchain](blockchain-smart-contracts.md)
