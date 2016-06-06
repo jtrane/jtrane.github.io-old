@@ -1,12 +1,12 @@
 # Research areas overlapping both CS and SC
 
-[Agent-based modelling](agent-based-modeling)
+[Agent-based modelling, Computational Social Science](agent-based-modeling.md)
 
-[Computational Social Choice](computational-social-choice)
+[Computational Social Choice](computational-social-choice.md)
 
-[Algorithmic Decision Theory](algorithmic-decision-theory) 
+[Algorithmic Decision Theory](algorithmic-decision-theory.md) 
 
-[Algorithmic Game Theory](algorithmic-game-theory)
+[Algorithmic Game Theory](algorithmic-game-theory.md)
 
-[Machine Ethics](machine-ethics)
+[Machine Ethics](machine-ethics.md)
 
