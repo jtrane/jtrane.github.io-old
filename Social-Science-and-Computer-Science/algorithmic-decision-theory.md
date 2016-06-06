@@ -1,0 +1,3 @@
+# Algorithmic Decision Theory
+
+[Algorithmic Decision Theory](http://cs.uky.edu/~srsa224/ADT2015/) is building on state of the art CS research aiming to develop tools that support decision making in real world applications. Some  CS relevant keywords: logic, knowledge representation, ontologies, SAT-solvers, SMT-solvers, resource allocation, ...
