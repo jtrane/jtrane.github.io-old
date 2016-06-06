@@ -1,4 +1,6 @@
-### Logic and Semantics
+## Logic and Semantics
+
+### some interesting examples:
 
 coinduction applied to infinite games [L](http://arxiv.org/abs/1112.1185), [AW](http://arxiv.org/abs/1210.4537)
 
@@ -7,6 +9,8 @@ applications of functional programming to game theory: Higher-Order Game Theory 
 compositional account of game theory [Hetal3](http://arxiv.org/abs/1604.06061), [HG](http://arxiv.org/abs/1603.04641)
 
 parametricity explains Noether's theorem in physics [A](http://bentnib.org/conservation-laws.pdf)
+
+### a somewhat arbitrary list just to indicate that it is likely that much more is possible
 
 specification languages (model theory) and reasoning (proof theory)
 
